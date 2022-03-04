@@ -1,5 +1,5 @@
 import { HStack, Icon } from '@chakra-ui/react'
-import { FaFacebook, FaGoogle, FaSpotify, FaInstagram, FaTwitter, FaLinkedin } from 'react-icons/fa'
+import {  FaGoogle,  FaInstagram, FaTwitter, FaLinkedin } from 'react-icons/fa'
 import React from 'react'
 
 function Social() {
